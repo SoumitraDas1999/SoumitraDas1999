@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soumitra Das,3rd CSE Undergraduate at IIT KGP.
-- 👀 I’m interested in Machine Learning,Deep Learning and AI Planning
+- 👀 I’m interested in Machine Learning,Deep Learning and AI Planning.
 - 📫 Reachme at soumitradas1999@gmail.com
 
 <!---
